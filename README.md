@@ -3,17 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Leo's%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
   
-<div align='center'> 🖥&nbsp&nbsp&nbspStudying to be a real backend developer</div>
+<div align='center'> 🖥&nbsp&nbsp&nbspStudying to be a backend developer</div>
 <br>
 <p align="center">
-📑&nbsp&nbsp&nbspLanguage I'm learning
+📑&nbsp&nbsp&nbsplanguages I'm learning
   </p>
 <p align="center">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/ts-icon.svg">
   </p>
  <p align="center">
-🏠&nbsp&nbsp&nbspDatabase I'm learning
+🏠&nbsp&nbsp&nbspdatabases I'm learning
   </p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
