@@ -1,8 +1,10 @@
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=LeoKim%200Tae&fontSize=50&animation=fadeIn&fontAlign=51" />
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Leo's%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
   
+<div align='center'> 🖥&nbsp&nbsp&nbspStudying to be a real backend developer</div>
+<br>
 <p align="center">
 📑&nbsp&nbsp&nbspLanguage I'm learning
   </p>
