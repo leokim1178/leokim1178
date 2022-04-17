@@ -1,18 +1,17 @@
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=300&section=header&text=LeoKim%200Tae&fontSize=90&animation=fadeIn&fontAlign=51" />
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=LeoKim%200Tae&fontSize=50&animation=fadeIn&fontAlign=51" />
   </p>
-
-
+  
 <p align="center">
-Language I'm learning
+📑&nbsp&nbsp&nbspLanguage I'm learning
   </p>
 <p align="center">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/ts-icon.svg">
   </p>
  <p align="center">
-Database I'm learning
+🏠&nbsp&nbsp&nbspDatabase I'm learning
   </p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
@@ -21,7 +20,7 @@ Database I'm learning
   </p> 
   
 <p align="center">
-&&
+🛵 &nbsp &nbspOngoing
   </p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/restapi-icon.svg">
