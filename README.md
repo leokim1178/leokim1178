@@ -18,7 +18,7 @@
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?20160706123547">
+<img alt= "icon" wide="60" height="60" src ="https://velog.velcdn.com/images/sjy0917/post/45b7622b-54df-4f04-bd83-278c33c9bc90/typeorm.png">
 &nbsp
 &nbsp
 &nbsp
