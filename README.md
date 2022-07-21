@@ -11,8 +11,6 @@
 <p align="center">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/ts-icon.svg">
-&nbsp&nbsp
-<img alt= "icon" wide="80" height="65" src ="https://techstack-generator.vercel.app/python-icon.svg">
   </p>
  <p align="center">
 🏠&nbsp&nbspdata
@@ -47,16 +45,6 @@
 <img alt= "icon" wide="60" height="60" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-570w.png">
   </p>
 
-<p align="center">
-🎨 &nbsp&nbspELK
-  </p>
-
-  <p align="center">
-  &nbsp&nbsp
-<img alt= "icon" wide="60" height="60" src ="./readme-imgs/elasticsearch.png">
-<img alt= "icon" wide="60" height="60" src ="./readme-imgs/logstash.png">
-<img alt= "icon" wide="60" height="60" src ="./readme-imgs/kibana.png">
-  </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=leokim1178&count_private=true&show_icons=true&theme=algolia">
 
