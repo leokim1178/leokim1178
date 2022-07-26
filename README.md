@@ -2,8 +2,15 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Leo's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
+  
 
 <div align='center'> 🖥&nbsp&nbsp&nbspStudying to be a backend developer</div>
+
+<div markdown="1" align="center">
+
+  [LINK to RESUME](https://leo3179.notion.site/ea7e6474f24a4389adf493b0c91f7b17)
+</div>
+
 <br>
 <p align="center">
 📑&nbsp&nbsp&nbsplanguages
@@ -58,3 +65,4 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleokim1178&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
   </p>
   </br>
+  
