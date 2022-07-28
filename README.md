@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Leo's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=6182df&height=180&section=header&text=Leo's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
   
 
