@@ -18,6 +18,8 @@
 <p align="center">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/ts-icon.svg">
+<br>
+<img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/python-icon.svg">
   </p>
  <p align="center">
 🏠&nbsp&nbspDatabase
@@ -47,7 +49,7 @@
 <img alt= "icon" wide="60" height="60" src ="https://docs.yugabyte.com/images/develop/graphql/hasura/hasura.png">
   </p>
 <p align="center">
-🚀 &nbsp&nbspDeploy
+🚀 &nbsp&nbspInfrastructure
   </p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/docker-icon.svg">
