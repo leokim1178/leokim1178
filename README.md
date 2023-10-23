@@ -45,8 +45,6 @@
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/graphql-icon.svg">
   &nbsp&nbsp&nbsp
 <img alt= "icon" wide="60" height="60" src ="https://docs.nestjs.com/assets/logo-small.svg">
-  &nbsp&nbsp&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://docs.yugabyte.com/images/develop/graphql/hasura/hasura.png">
   </p>
 <p align="center">
 🚀 &nbsp&nbspInfrastructure
@@ -69,9 +67,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://opgc.me/#/users/leokim1178" target="_blank"><img src="https://api.opgc.me/githubs/users/leokim1178/tag/?theme=basic" /></a>
-  </p>
   
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleokim1178&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
