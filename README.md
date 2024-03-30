@@ -8,7 +8,7 @@
 
 <div markdown="1" align="center">
 
-  [LINK to RESUME](https://leo3179.notion.site/ea7e6474f24a4389adf493b0c91f7b17)
+  [LINK to RESUME](https://morethan-log.vercel.app/resume)
 </div>
 
 <br>
