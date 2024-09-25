@@ -13,45 +13,27 @@
 
 <br>
 <p align="center">
-📑&nbsp&nbsp&nbspLanguage
-  </p>
-<p align="center">
-<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
-<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/ts-icon.svg">
+<img alt= "icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img alt= "icon" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <br>
-<img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/python-icon.svg">
-  </p>
- <p align="center">
-🏠&nbsp&nbspDatabase
+<img alt= "icon" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   </p>
 <p align="center">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png?20080116191800">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://velog.velcdn.com/images/sjy0917/post/45b7622b-54df-4f04-bd83-278c33c9bc90/typeorm.png">
-&nbsp
-&nbsp
-&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png">
+<img alt= "icon" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt= "icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img alt= "icon" src ="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+<br>
+<img alt= "icon" src ="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
+  <img alt= "icon" src ="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   </p> 
   
 <p align="center">
-🛵 &nbsp&nbspStack
+<img alt= "icon" src ="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   </p>
+<br>
 <p align="center">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/restapi-icon.svg">
-  &nbsp&nbsp&nbsp
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/graphql-icon.svg">
-  &nbsp&nbsp&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://docs.nestjs.com/assets/logo-small.svg">
-  </p>
-<p align="center">
-🚀 &nbsp&nbspInfrastructure
-  </p>
-<p align="center">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/docker-icon.svg">
-<img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/kubernetes-icon.svg">
+<img alt= "icon" src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img alt= "icon" src ="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white">
 &nbsp
 <img alt= "icon" wide="60" height="60" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-570w.png">
 &nbsp
