@@ -7,7 +7,6 @@
 <div align='center'> 🖥&nbsp&nbsp&nbspBE Developer</div>
 
 <div markdown="1" align="center">
-
   [LINK to RESUME](https://leo-1178-blog.vercel.app/resume)
 </div>
 
@@ -30,28 +29,18 @@
 <p align="center">
 <img alt= "icon" src ="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   </p>
-<br>
+
 <p align="center">
 <img alt= "icon" src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img alt= "icon" src ="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white">
-&nbsp
-<img alt= "icon" wide="60" height="60" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-570w.png">
-&nbsp
-<img alt= "icon" wide="60" height="60" src="https://techstack-generator.vercel.app/aws-icon.svg">
-&nbsp
-<img alt= "icon" wide="60" height="60" src="https://pics.freeicons.io/uploads/icons/png/18661926311551942828-512.png">
-&nbsp
-<img alt= "icon" wide="60" height="60" src="https://static.wikia.nocookie.net/half-life/images/d/dc/Lambda_logo.svg/revision/latest/scale-to-width-down/200?cb=20100327174546&path-prefix=en">
+<img alt= "icon" src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044">
+<img alt= "icon" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </p>
-
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=leokim1178&count_private=true&show_icons=true&theme=algolia">
 
 </p>
-
-  
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleokim1178&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
   </p>
-  </br>
   
