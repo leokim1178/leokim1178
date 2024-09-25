@@ -8,7 +8,7 @@
 
 <div markdown="1" align="center">
 
-  [LINK to RESUME](https://morethan-log.vercel.app/resume)
+  [LINK to RESUME](https://leo-1178-blog.vercel.app/resume)
 </div>
 
 <br>
